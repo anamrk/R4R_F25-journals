@@ -31,3 +31,5 @@ LLM is not really applicable to my research at this time since it do not work on
 > [!IMPORTANT]
 
 > **Due Thursday 25th, 11am**
+
+We discussed each others research and how survey designs can be used since that is applicable to my research
