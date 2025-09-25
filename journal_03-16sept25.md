@@ -23,10 +23,11 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > [!IMPORTANT]
 > **Due Monday 22nd, 11pm**
 
-
+LLM is not really applicable to my research at this time since it do not work on that part that is more the computer sciences students. 
 ---
 
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
+
 > **Due Thursday 25th, 11am**
