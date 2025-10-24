@@ -8,7 +8,7 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 > **Due Wednesday 22nd, 11pm**
 
 ### Rose
-
+learned database mangement, etc 
 
 ### Thorn
 
@@ -29,4 +29,5 @@ Following the instructions in the main [README.md](README.md/#entries-instructio
 ## Cohort meetup discussion
 
 > [!IMPORTANT]
+
 > **Due Thursday 30th, 11am**
